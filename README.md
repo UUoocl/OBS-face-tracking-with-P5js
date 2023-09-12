@@ -1,5 +1,5 @@
 # OBS-face-tracking-with-P5js
-Lets say you want to track a face in a video to produce some creative effect. This could be easliy done with the latest [Nvidia RTX graphics cards](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/). 
+Do you want to track a face in a video to produce some creative effect? This could be easliy done with the latest [Nvidia RTX graphics cards](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/). 
 If you don't have an RTX card, then try this javaScript to add face tracking to OBS.
 
 This example comes from [the coding train](https://thecodingtrain.com/tracks/ml5js-beginners-guide) beginners guide to machine learning. The Coding Train is a great resource for learning creative coding.  
